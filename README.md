@@ -7,8 +7,6 @@
 
 &gt; A modern, responsive, and animated portfolio website showcasing my journey as a Software Engineer.
 
-![Portfolio Preview](./screenshot.png)
-
 ## ✨ Features
 
 - 🎨 **Modern Dark Theme** with gradient accents and glassmorphism effects
@@ -27,10 +25,6 @@
 - **Animations**: CSS Keyframes, Intersection Observer API
 - **Deployment**: GitHub Pages
 
-## 🚀 Live Demo
-
-**[View Live Portfolio →](https://parthgandhi.github.io)**
-
 ## 📂 Sections
 
 1. **Hero** - Introduction with animated background and stats
@@ -39,15 +33,3 @@
 4. **Skills** - Categorized technical skills (Languages, Frameworks, Tools, Databases)
 5. **Projects** - Sign Language Translation Platform showcase
 6. **Contact** - Professional contact information
-
-## 🖼️ Adding Your Photo
-
-To add your profile picture:
-
-1. Add your photo to the repository (e.g., `profile.jpg`)
-2. Update the Hero section in `index.html`:
-   ```html
-   &lt;div class="hero-content"&gt;
-       &lt;img src="profile.jpg" alt="Parth Gandhi" class="profile-img"&gt;
-       &lt;!-- rest of content --&gt;
-   &lt;/div&gt;
